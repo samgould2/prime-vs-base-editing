@@ -4,6 +4,8 @@ This repo contains code used to compare the capabilities of prime editing and ba
 
 **Reference files** are too large for Github (100 Mb limit), and are available at the following dropbox repository: https://www.dropbox.com/sh/ovbpiswfghlx1j6/AABCfbBUdH-65QMzD6UyQnvwa?dl=0
 
+Information about each notebook present in repo:
+
 - **Genome Processing_CLEAN.ipynb:** A script that creates annotation file for genes represented in the MSK IMPACT dataset.
 
 - **BE Coverage_CLEAN.ipynb:** A script that quantifies the capabilities of base editing (BE) to model mutations present in the MSK IMPACT dataset. Includes some figure generation as well. 
