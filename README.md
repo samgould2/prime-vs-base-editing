@@ -16,6 +16,6 @@ Information about each notebook present in repo:
 
 - **Mouse_Human_Mutation_Modeling_CLEAN.ipynb:** A script that determines whether a concordant mutation can be modeled in mouse at varying stringencies/requirements for the homology of the region flanking the mutation of interest.
 
-- **Homology_figures_CLEAN.ipynb:** Contains figures generated to visualize homology, as well as other miscellaneous figures not present in PE Coverage/BE Coverage notebooks. 
+- **Figure creation_CLEAN.ipynb:** Contains figures generated to visualize homology, as well as other miscellaneous figures not present in PE Coverage/BE Coverage notebooks. 
 
 For more information/inquiries, email: samgould@mit.edu or samuelgould3@gmail.com
