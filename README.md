@@ -18,4 +18,6 @@ Information about each notebook present in repo:
 
 - **Figure creation_CLEAN.ipynb:** Contains figures generated to visualize homology, as well as other miscellaneous figures not present in PE Coverage/BE Coverage notebooks. 
 
+- **Supplement figures_CLEAN.ipynb:** Notebook used to generate supplementary figures. Includes analysis of prime vs. base editing capabilities when looking at recurrent mutations, and when using different stringencies of homology between human and mouse. 
+
 For more information/inquiries, email: samgould@mit.edu or samuelgould3@gmail.com
